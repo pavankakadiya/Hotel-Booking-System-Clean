@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "68d3c3d8ea88a3458f82e733"
+  },
+  "from": {
+    "$date": "2025-09-24T10:11:00.399Z"
+  },
+  "to": {
+    "$date": "2025-09-24T10:11:00.399Z"
+  },
+  "days": 1,
+  "roomNumbers": [
+    4
+  ],
+  "paid": false,
+  "amount": 170,
+  "location": "Berlin",
+  "numOfPeople": 1,
+  "bookedBy": {
+    "$oid": "68d2a88aebbefd3708158403"
+  },
+  "people": {
+    "children": 0,
+    "adults": 1
+  },
+  "room": {
+    "$oid": "68d3c2e7ea88a3458f82e6b8"
+  },
+  "hotel": {
+    "$oid": "68d2a27eebbefd37081582a4"
+  },
+  "bookedOn": {
+    "$date": "2025-09-24T10:11:36.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d46adbea88a3458f82e7b3"
+  },
+  "from": {
+    "$date": "2025-09-24T22:03:54.446Z"
+  },
+  "to": {
+    "$date": "2025-09-24T22:03:54.446Z"
+  },
+  "days": 1,
+  "roomNumbers": [
+    2
+  ],
+  "paid": false,
+  "amount": 520,
+  "location": "surat",
+  "numOfPeople": 1,
+  "bookedBy": {
+    "$oid": "68d2a88aebbefd3708158403"
+  },
+  "people": {
+    "children": 0,
+    "adults": 1
+  },
+  "room": {
+    "$oid": "68d2a56aebbefd37081582e7"
+  },
+  "hotel": {
+    "$oid": "68d2a460ebbefd37081582ce"
+  },
+  "bookedOn": {
+    "$date": "2025-09-24T22:04:11.620Z"
+  },
+  "__v": 0
+}]

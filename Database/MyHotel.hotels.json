@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "68d2a27eebbefd37081582a4"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/hotel-booking-app-2c070.appspot.com/o/images%2Fhotels%2F68d2a27eebbefd37081582a4%2FhotelImage?alt=media&token=1bc3d753-977d-4328-b967-b2b6bb37e2da",
+  "name": "Alecsa Hotel am Olympiastadion",
+  "description": "Hotels in der Nähe des Olympiastadions in Berlin, Deutschland | IHG. Ein IHG® Hotel.",
+  "manager": {
+    "$oid": "68d2a206ebbefd370815829e"
+  },
+  "rooms": [
+    {
+      "$oid": "68d2ab74ebbefd37081584e6"
+    },
+    {
+      "$oid": "68d3c2e7ea88a3458f82e6b8"
+    }
+  ],
+  "location": "Berlin",
+  "ratings": null,
+  "totalRooms": 6,
+  "roomsMap": {
+    "1": "sfsf",
+    "2": "delux",
+    "3": "delux",
+    "4": "Gold Rooms"
+  },
+  "addedOn": {
+    "$date": "2025-09-23T13:37:02.607Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "68d2a460ebbefd37081582ce"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/hotel-booking-app-2c070.appspot.com/o/images%2Fhotels%2F68d2a460ebbefd37081582ce%2FhotelImage?alt=media&token=dec13283-c13e-44e3-98a9-c6f589c87397",
+  "name": "pavan1",
+  "description": "fsdfsdf",
+  "manager": {
+    "$oid": "68d2a328ebbefd37081582b3"
+  },
+  "rooms": [
+    {
+      "$oid": "68d2a56aebbefd37081582e7"
+    }
+  ],
+  "location": "surat",
+  "ratings": null,
+  "totalRooms": 5,
+  "roomsMap": {
+    "1": "room 3",
+    "2": "room 3",
+    "3": "room 3"
+  },
+  "addedOn": {
+    "$date": "2025-09-23T13:45:04.021Z"
+  },
+  "__v": 0
+}]

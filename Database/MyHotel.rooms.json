@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "68d2a56aebbefd37081582e7"
+  },
+  "images": [
+    {
+      "_id": {
+        "$oid": "68d2a56aebbefd37081582e8"
+      }
+    }
+  ],
+  "name": "room 3",
+  "description": "dfjbsdvjbjfv",
+  "occupancy": 3,
+  "others": [
+    "ac",
+    "tv",
+    "fridge",
+    "double bed"
+  ],
+  "hotel": {
+    "$oid": "68d2a460ebbefd37081582ce"
+  },
+  "price": 500,
+  "ratings": null,
+  "bookings": [
+    {
+      "$oid": "68d46adbea88a3458f82e7b3"
+    }
+  ],
+  "roomNumbers": [
+    2,
+    3,
+    1
+  ],
+  "addedOn": {
+    "$date": "2025-09-23T13:49:30.059Z"
+  },
+  "__v": 11
+},
+{
+  "_id": {
+    "$oid": "68d2ab74ebbefd37081584e6"
+  },
+  "images": [],
+  "name": "Silver Rooms",
+  "description": "dcwsdcsdc",
+  "occupancy": 3,
+  "others": [
+    "sdcs",
+    "dcsd"
+  ],
+  "hotel": {
+    "$oid": "68d2a27eebbefd37081582a4"
+  },
+  "price": 200,
+  "ratings": null,
+  "bookings": [],
+  "roomNumbers": [],
+  "addedOn": {
+    "$date": "2025-09-23T14:15:16.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3c2e7ea88a3458f82e6b8"
+  },
+  "images": [
+    {
+      "url": null,
+      "uuid": null,
+      "_id": {
+        "$oid": "68d3c2e7ea88a3458f82e6b9"
+      }
+    }
+  ],
+  "name": "Gold Rooms",
+  "description": "Medium Size Room",
+  "occupancy": 0,
+  "others": [
+    "Parking",
+    " Private bathroom",
+    " WiFi included",
+    " air conditioning"
+  ],
+  "hotel": {
+    "$oid": "68d2a27eebbefd37081582a4"
+  },
+  "price": 150,
+  "ratings": null,
+  "bookings": [
+    {
+      "$oid": "68d3c3d8ea88a3458f82e733"
+    }
+  ],
+  "roomNumbers": [
+    4
+  ],
+  "addedOn": {
+    "$date": "2025-09-24T10:07:35.585Z"
+  },
+  "__v": 3
+}]

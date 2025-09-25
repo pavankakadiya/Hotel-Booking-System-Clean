@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "68d2a206ebbefd370815829e"
+  },
+  "name": "avi",
+  "username": "avikheni",
+  "email": "avikheni@gmail.com",
+  "password": "$2a$12$syvS8Durft4/N7TjjNk/w.kShVy8AVEb7bag0pftFQTUo6.anxHk.",
+  "dob": {
+    "$date": "2025-09-23T13:34:43.545Z"
+  },
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImF2aWtoZW5pQGdtYWlsLmNvbSIsImlhdCI6MTc1ODYzNDUwMiwiZXhwIjoxNzU4NjQ4OTAyfQ.cJmYZq--_jKy4zG2Wb5Qsu2ETcyjV4QyN1Ugx316fVM",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImF2aWtoZW5pQGdtYWlsLmNvbSIsImlhdCI6MTc1ODYzNDUwMiwiZXhwIjoxNzU5MjM5MzAyfQ.aLTMltGhc04svMt_jzKp0BYMNWO88gNICIdnWiJyyd8",
+  "accessTokenExp": "4h",
+  "refreshTokenExp": "7d",
+  "isAdmin": false,
+  "isManager": true,
+  "isBlocked": false,
+  "joined": {
+    "$date": "2025-09-23T13:35:02.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a328ebbefd37081582b3"
+  },
+  "name": "pavan",
+  "username": "pavan123",
+  "email": "pavan123@gmail.com",
+  "password": "$2a$12$l7lyt2K6QadoRIBvjIIwm...MXAYGJ647MoJsf/yDxvM3Hrwr85Au",
+  "dob": {
+    "$date": "2025-09-23T13:39:33.373Z"
+  },
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdmFuMTIzQGdtYWlsLmNvbSIsImlhdCI6MTc1ODYzNDc5MiwiZXhwIjoxNzU4NjQ5MTkyfQ.AwnURKCg-qMLiaaW-Be-mHSVWzWGaCJW3mroIeRB7as",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdmFuMTIzQGdtYWlsLmNvbSIsImlhdCI6MTc1ODYzNDc5MiwiZXhwIjoxNzU5MjM5NTkyfQ.TBeThxY9j-_PLo7knhZiwWxBJDGWc2wvoCFuA-k3jIw",
+  "accessTokenExp": "4h",
+  "refreshTokenExp": "7d",
+  "isAdmin": false,
+  "isManager": true,
+  "isBlocked": false,
+  "joined": {
+    "$date": "2025-09-23T13:39:52.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a88aebbefd3708158403"
+  },
+  "name": "nikhil",
+  "username": "nikhil123",
+  "email": "nikhil@gmail.com",
+  "password": "$2a$12$4CRj76mLAA9FIKEGpUqO8.fLeJdp7SHeEbeFZPnR4SSBVxAvyJLhK",
+  "dob": {
+    "$date": "2025-09-23T14:02:19.626Z"
+  },
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5pa2hpbEBnbWFpbC5jb20iLCJpYXQiOjE3NTg2MzYxNzAsImV4cCI6MTc1ODY1MDU3MH0.zInV4OR92hRpwdHciz_jsoKciEg2sFhayP7ZeIxoxck",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5pa2hpbEBnbWFpbC5jb20iLCJpYXQiOjE3NTg2MzYxNzAsImV4cCI6MTc1OTI0MDk3MH0.D1aj91kj0_7OqcJ11vur0Pqsin6TxgU2of4_nA9PuGk",
+  "accessTokenExp": "4h",
+  "refreshTokenExp": "7d",
+  "isAdmin": false,
+  "isManager": false,
+  "isBlocked": false,
+  "joined": {
+    "$date": "2025-09-23T14:02:50.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d314c1ebbefd3708158612"
+  },
+  "name": "Pavan Kakadiya",
+  "username": "Pavan1006",
+  "email": "kakdiyapavan@gmail.com",
+  "password": "$2a$12$hZ9FI8mvyZkdrYpYFJ9Sr.MiYFt.YJzzwyChRYKkPRultHmZEegHm",
+  "dob": {
+    "$date": "2025-09-23T21:44:05.221Z"
+  },
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imtha2RpeWFwYXZhbkBnbWFpbC5jb20iLCJpYXQiOjE3NTg2NjM4NzMsImV4cCI6MTc1ODY3ODI3M30.qW-fXr3t_G2aZoTxfVgxcG_TCM1E33FJ64kA7jrSsuM",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imtha2RpeWFwYXZhbkBnbWFpbC5jb20iLCJpYXQiOjE3NTg2NjM4NzMsImV4cCI6MTc1OTI2ODY3M30.JRq4uByIub2WipwFpojyWrRndpvK_ePjNSlGlJ3Y1yo",
+  "accessTokenExp": "4h",
+  "refreshTokenExp": "7d",
+  "isAdmin": false,
+  "isManager": false,
+  "isBlocked": false,
+  "joined": {
+    "$date": "2025-09-23T21:44:33.469Z"
+  },
+  "__v": 0
+}]
